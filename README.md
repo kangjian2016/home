@@ -1,4 +1,4 @@
-## Welcome to Yanyi Song's Personal Pages
+# Yanyi Song
 
 Welcome to my personal page. I am a xxx. TBD
 
